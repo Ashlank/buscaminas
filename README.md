@@ -1,6 +1,7 @@
 # Buscaminas
 
-Creado con [Create React App](https://github.com/facebook/create-react-app) y [TailwindCSS](https://tailwindcss.com/)
+Creado con [Create React App](https://github.com/facebook/create-react-app) y [TailwindCSS](https://tailwindcss.com/).
+
 Desafio creado por [Gonzalo Pozzo](https://github.com/goncy)
 
 ## Descripción
