@@ -4,7 +4,7 @@ export default function Tile({ tile, onClick }) {
                       bg-slate-500 border-solid
                       border-black border-[2px]
                       flex items-center justify-center cursor-pointer
-                      ${tile.visible ? 'bg-slate-300' : ''}`
+                      ${tile.visible ? '!bg-slate-300' : ''}`
 
   return (
     <span onClick={onClick}
